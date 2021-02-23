@@ -9,6 +9,12 @@
 * [Support Server](https://discord.gg/g9zQbjE73K)
 * [TopGG](https://top.gg/bot/779559821162315787)
 * [Discord Bot List](https://discordbotlist.com/bots/minato-namikaze)
+* [Discord Bots](https://discord.bots.gg/bots/779559821162315787)
+
+***
+
+### Minato Namikaze Bot Docs
+* [Docs](https://dhruvacube.github.io/yondaime-hokage/)
 
 ***
 
@@ -17,6 +23,10 @@
 * [Disboard](https://disboard.org/server/747480356625711204)
 * [Discord Bot List](https://discordbotlist.com/servers/konohagakure)
 
+
+***
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8)
 
 ***
 
@@ -30,10 +40,6 @@
 * [Speedsloving.com](https://www.speedsolving.com/members/dhruva-shaw.36635/)
 * [Imgur](https://imgur.com/user/DhruvaShaw)
 * [WCA](https://www.worldcubeassociation.org/persons/2016SHAW01)
-
-***
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&langs_count=10)](https://github.com/Dhruvacube)
 
 ***
 
