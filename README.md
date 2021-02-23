@@ -33,7 +33,7 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube)](https://github.com/Dhruvacube)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&langs_count=10)](https://github.com/Dhruvacube)
 
 ***
 
