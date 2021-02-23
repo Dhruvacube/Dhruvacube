@@ -33,5 +33,9 @@
 
 ***
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube)](https://github.com/Dhruvacube)
+
+***
+
 
 ![Namikaze Family](https://media.discordapp.net/attachments/777918705098686465/813086521481232414/image0.jpg)
