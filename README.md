@@ -1,7 +1,7 @@
 # Dhruva Shaw
 ###### A student busy with studies!
 
-![Minato Namikaze aka Yondaime Hokage](https://media.discordapp.net/attachments/777918705098686465/813083579223506954/image0.jpg?width=1020&height=388 "Minato Namikaze aka Yondaime Hokage")
+![Sai Friendship](https://i.imgur.com/yCdso6y.jpg "Sai Friendship")
 
 ***
 
@@ -28,8 +28,7 @@
 
 
 ***
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8)
+Dhruva Shaw GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8)
 
 ***
 
