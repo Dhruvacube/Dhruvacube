@@ -29,7 +29,7 @@
 
 
 ***
-Dhruva Shaw GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8)
+[Dhruva Shaw GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8)
 
 ***
 
