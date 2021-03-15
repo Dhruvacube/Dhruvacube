@@ -33,7 +33,7 @@
 * [DIscord Extreme List](https://discordextremelist.xyz/en-US/servers/747480356625711204)
 
 ***
-[Dhruva Shaw GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact&count_private=true&show_icons=true) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8)
+![Dhruva Shaw GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact&count_private=true&show_icons=true) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8)
 
 ***
 
