@@ -1,11 +1,16 @@
 # Dhruva Shaw
 ###### A student busy with studies!
 
+[![Discord Bots](https://top.gg/api/widget/status/779559821162315787.svg)](https://top.gg/bot/779559821162315787)
+
+
 ![Sai Friendship](https://i.imgur.com/yCdso6y.jpg "Sai Friendship")
 
 ***
-
 ### Discord Bot (Minato Namikaze)
+
+[![Discord Bots](https://top.gg/api/widget/status/779559821162315787.svg)](https://top.gg/bot/779559821162315787)
+
 * [Support Server](https://discord.gg/g9zQbjE73K)
 * [TopGG](https://top.gg/bot/779559821162315787)
 * [Discord Bot List](https://discordbotlist.com/bots/minato-namikaze)
