@@ -1,5 +1,5 @@
 # Dhruva Shaw
-###### A student busy with studies!
+###### A student busy with studies! ![Discord Status](https://img.shields.io/endpoint?label=status&url=https://dev.discordprofiles.me/api/badge/status/571889108046184449 "Discord Status")
 
 ![Sai Friendship](https://i.imgur.com/yCdso6y.jpg "Sai Friendship")
 
