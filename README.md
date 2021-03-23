@@ -51,5 +51,11 @@
 
 ***
 
+.. image:: https://wakatime.com/share/@dhruva/37202c13-f055-4245-90cc-914d6a0b58a3.png
+    :target: https://wakatime.com/
+
+
+***
+
 
 ![Namikaze Family](https://media.discordapp.net/attachments/777918705098686465/813086521481232414/image0.jpg)
