@@ -51,8 +51,7 @@
 
 ***
 
-.. image:: https://wakatime.com/share/@dhruva/37202c13-f055-4245-90cc-914d6a0b58a3.png
-    :target: https://wakatime.com/
+![Time spent](https://wakatime.com/share/@dhruva/37202c13-f055-4245-90cc-914d6a0b58a3.png)
 
 
 ***
