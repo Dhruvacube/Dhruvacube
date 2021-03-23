@@ -33,7 +33,7 @@
 * [DIscord Extreme List](https://discordextremelist.xyz/en-US/servers/747480356625711204)
 
 ***
-![Dhruva Shaw GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact&count_private=true&show_icons=true) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8)
+![Dhruva Shaw GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact&count_private=true&show_icons=true) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  [![Dhruva Shaw wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruva)]
 
 ***
 
@@ -48,11 +48,6 @@
 * [Speedsloving.com](https://www.speedsolving.com/members/dhruva-shaw.36635/)
 * [Imgur](https://imgur.com/user/DhruvaShaw)
 * [WCA](https://www.worldcubeassociation.org/persons/2016SHAW01)
-
-***
-
-![Time spent](https://wakatime.com/share/@dhruva/37202c13-f055-4245-90cc-914d6a0b58a3.png)
-
 
 ***
 
