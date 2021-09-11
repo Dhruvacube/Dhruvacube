@@ -5,9 +5,12 @@
 I am student who ❤️ **cubing**, **coding** and **skating**. *And I am busy with my studies* :)
 
 ***
+## ⚡ GitHub Statistics
+<details open>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact&count_private=true&show_icons=true" alt="Dhruva Shaw GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8" alt="Top Langs" />
+</details>
 
-## Repository stats
-![Dhruva Shaw GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact&count_private=true&show_icons=true) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8) 
 
 ## Wakatime Stats
 ![Dhruva Shaw wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruva)
