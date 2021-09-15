@@ -22,7 +22,7 @@ I am student who ❤️ **cubing**, **coding** and **skating**. *And I am busy w
 ![Youtube](https://img.shields.io/badge/Youtube-Dhruva%20Shaw-FF0000?style=for-the-badge&logo=youtube)
 ![Instagram](https://img.shields.io/badge/Instagram-dhruva__shaw__-E4405F?style=for-the-badge&logo=instagram)
 ![Github](https://img.shields.io/badge/github-Dhruvacube-181717?style=for-the-badge&logo=github)
-* [Github Gist](https://gist.github.com/Dhruvacube)
+![Github Gist](https://img.shields.io/badge/github%20gist-Dhruvacube-181717?style=for-the-badge&logo=github)
 ![Imgur](https://img.shields.io/badge/Imgur-DhruvaShaw-1BB76E?style=for-the-badge&logo=imgur)
 * [Speedsolving.com](https://www.speedsolving.com/members/dhruva-shaw.36635/)
 * [WCA](https://www.worldcubeassociation.org/persons/2016SHAW01)
