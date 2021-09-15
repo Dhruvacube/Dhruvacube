@@ -122,6 +122,6 @@
 ***
 
 
-![Namikaze Family](https://media.discordapp.net/attachments/777918705098686465/813086521481232414/image0.jpg)
+![Naruto and Sasuke](https://i.imgur.com/KPn25ut.jpeg)
 
 
