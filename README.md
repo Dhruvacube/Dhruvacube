@@ -46,7 +46,11 @@
     </th>
   </tr>
   <tr align="left">
-    <th><img src="https://img.shields.io/badge/Youtube-Dhruva%20Shaw-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" /></th>
+    <th>
+      <a href="https://www.youtube.com/c/DhruvaShaw" target="_blank">
+        <img src="https://img.shields.io/badge/Youtube-Dhruva%20Shaw-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
+      </a>
+    </th>
     <th><img src="https://img.shields.io/badge/discord-HATSUNE%20MIKU%238425-5865F2?style=for-the-badge&logo=discord" alt="Discord" /></th>
 
   </tr>
