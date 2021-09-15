@@ -22,8 +22,16 @@
     </th>
   </tr>
   <tr align="left">
-    <th><img src="https://img.shields.io/badge/Imgur-DhruvaShaw-1BB76E?style=for-the-badge&logo=imgur" alt="Imgur" /></th>
-    <th><img src="https://img.shields.io/badge/Instagram-dhruva__shaw__-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" /></th>
+    <th>
+      <a href="https://scratch.mit.edu/users/Dhruvacuber/" target="_blank">
+        <img src="https://img.shields.io/badge/Imgur-DhruvaShaw-1BB76E?style=for-the-badge&logo=imgur" alt="Imgur" />
+      </a>
+    </th>
+    <th>
+      <a href="https://www.instagram.com/dhruva_shaw_/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-dhruva__shaw__-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+      </a>
+    </th>
   </tr>
   <tr align="left">
     <th><img src="https://img.shields.io/badge/github-Dhruvacube-181717?style=for-the-badge&logo=github" alt="Github" /></th>
