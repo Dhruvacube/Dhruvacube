@@ -17,7 +17,6 @@ I am student who ❤️ **cubing**, **coding** and **skating**. *And I am busy w
 ***
 
 ### 🔗 Social Links 🔗
-* [Website Official](https://dhruvacuber.pythonanywhere.com/)
 ![Dev.to](https://img.shields.io/badge/Dev.to-dhruvacube-0A0A0A?style=for-the-badge&logo=dev.to)
 ![Scratch](https://img.shields.io/badge/Scratch-Dhruvacuber-4D97FF?style=for-the-badge&logo=scratch)
 ![Youtube](https://img.shields.io/badge/Youtube-Dhruva%20Shaw-FF0000?style=for-the-badge&logo=youtube)
