@@ -17,7 +17,7 @@ I am student who ❤️ **cubing**, **coding** and **skating**. *And I am busy w
 
 ## 🔗 Social Links 🔗
 
-<img align="right" width="30%" src="https://i.imgur.com/3OqZm2D.jpeg" />
+<img align="right" width="20%" height="20%" src="https://i.imgur.com/3OqZm2D.jpeg" />
 
 <table style="border: none">
   <tr align="left">
@@ -52,6 +52,10 @@ I am student who ❤️ **cubing**, **coding** and **skating**. *And I am busy w
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain-wordmark.svg" alt="filezilla" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="filezilla" width="25" height="25" />
+
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8" alt="Top Langs" />
