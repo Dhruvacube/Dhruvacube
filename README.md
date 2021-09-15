@@ -85,7 +85,7 @@
 
 <details>
   <summary>⏱️ <b>Wakatime Statistics</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact&count_private=true&show_icons=true" alt="Dhruva Shaw GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhruva" alt="Dhruva Shaw Wakatime Statistics" />
 </details>
 
 ***
