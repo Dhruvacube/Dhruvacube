@@ -63,6 +63,11 @@ I am student who ❤️ **cubing**, **coding** and **skating**. *And I am busy w
   <img src="https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact&count_private=true&show_icons=true" alt="Dhruva Shaw GitHub stats" />
 </details>
 
+<details>
+  <summary>⏱️ <b>Wakatime Statistics</b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact&count_private=true&show_icons=true" alt="Dhruva Shaw GitHub stats" />
+</details>
+
 ***
 
 
