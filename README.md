@@ -34,7 +34,11 @@
     </th>
   </tr>
   <tr align="left">
-    <th><img src="https://img.shields.io/badge/github-Dhruvacube-181717?style=for-the-badge&logo=github" alt="Github" /></th>
+    <th>
+      <a href="https://github.com/Dhruvacube" target="_blank">
+        <img src="https://img.shields.io/badge/github-Dhruvacube-181717?style=for-the-badge&logo=github" alt="Github" />
+      </a>
+    </th>
     <th><img src="https://img.shields.io/badge/github%20gist-Dhruvacube-181717?style=for-the-badge&logo=github" alt="Github Gist" /></th>
   </tr>
   <tr align="left">
