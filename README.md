@@ -69,6 +69,9 @@ I am student who ❤️ **cubing**, **coding** and **skating**. *And I am busy w
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-plain.svg" alt="arduino" width="40" height="40" />
 </p>
 </p>
 
