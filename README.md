@@ -17,6 +17,8 @@ I am student who ❤️ **cubing**, **coding** and **skating**. *And I am busy w
 
 ## 🔗 Social Links 🔗
 
+<img align="right" width="40%" src="https://i.imgur.com/3OqZm2D.jpeg" />
+
 <table style="border: none">
   <tr align="left">
     <th><img src="https://img.shields.io/badge/Dev.to-dhruvacube-0A0A0A?style=for-the-badge&logo=dev.to" alt="dev.to" /></th>
