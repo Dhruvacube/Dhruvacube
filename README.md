@@ -2,7 +2,7 @@
 
 ***
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/571889108046184449)](https://discord.com/users/571889108046184449)
+[![Discord Presence of HATSUNE MIKU#8425](https://lanyard-profile-readme.vercel.app/api/571889108046184449)](https://discord.com/users/571889108046184449)
 
 ***
 
