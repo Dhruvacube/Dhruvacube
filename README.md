@@ -10,8 +10,16 @@
 
 <table style="border: none">
   <tr align="left">
-    <th><img src="https://img.shields.io/badge/Dev.to-dhruvacube-0A0A0A?style=for-the-badge&logo=dev.to" alt="dev.to" /></th>
-    <th><img src="https://img.shields.io/badge/Scratch-Dhruvacuber-4D97FF?style=for-the-badge&logo=scratch" alt="Scratch" /></th>
+    <th>
+      <a href="https://dev.to/dhruvacube" target="_blank">
+        <img src="https://img.shields.io/badge/Dev.to-dhruvacube-0A0A0A?style=for-the-badge&logo=dev.to" alt="dev.to" />
+      </a>
+    </th>
+    <th>
+      <a href="https://scratch.mit.edu/users/Dhruvacuber/" target="_blank">
+        <img src="https://img.shields.io/badge/Scratch-Dhruvacuber-4D97FF?style=for-the-badge&logo=scratch" alt="Scratch" />
+      </a>
+    </th>
   </tr>
   <tr align="left">
     <th><img src="https://img.shields.io/badge/Imgur-DhruvaShaw-1BB76E?style=for-the-badge&logo=imgur" alt="Imgur" /></th>
