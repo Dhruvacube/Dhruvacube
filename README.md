@@ -17,7 +17,7 @@ I am student who ❤️ **cubing**, **coding** and **skating**. *And I am busy w
 
 ## 🔗 Social Links 🔗
 
-<img align="right" width="40%" src="https://i.imgur.com/3OqZm2D.jpeg" />
+<img align="right" width="30%" src="https://i.imgur.com/3OqZm2D.jpeg" />
 
 <table style="border: none">
   <tr align="left">
