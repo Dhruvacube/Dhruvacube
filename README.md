@@ -25,7 +25,7 @@
   </tr>
   <tr align="left">
     <th>
-      <a href="https://scratch.mit.edu/users/Dhruvacuber/" target="_blank">
+      <a href="https://imgur.com/user/DhruvaShaw" target="_blank">
         <img src="https://img.shields.io/badge/Imgur-DhruvaShaw-1BB76E?style=for-the-badge&logo=imgur" alt="Imgur" />
       </a>
     </th>
