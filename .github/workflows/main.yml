@@ -24,7 +24,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: lowlighter/metrics@master
         with:
-          token: ${{ secrets.USER_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Asia/Calcutta
           repositories_forks: yes
