@@ -75,4 +75,22 @@ jobs:
           plugin_reactions_details: count, percentage # Display reactions count and percentage
           plugin_reactions_ignored: bot               # Ignore "bot" user
           
+          plugin_notable: yes
+          plugin_notable_filter: stars:>500    # Only display repositories with 500 stars or more (syntax based on GitHub search query)
+          plugin_notable_from: organization    # Only display contributions within organization repositories
+          plugin_notable_repositories: yes     # Display repositories name instead of only organization name
+          
+          plugin_stars: yes
+          plugin_stars_limit: 5 # Limit to 4 entries
+          
+          plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
+          plugin_topics_mode: mastered # Display icons instead of labels
+          plugin_topics_limit: 0       # Disable limitations
+          
+          plugin_screenshot: yes
+          plugin_screenshot_title: XKCD of the day  # Section title
+          plugin_screenshot_url: https://dhruvacuber.pythonanywhere.com/   # Website url
+          plugin_screenshot_background: no
+          
           
