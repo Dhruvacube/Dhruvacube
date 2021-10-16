@@ -8,6 +8,10 @@
 
 ***
 
+<img src="https://raw.githubusercontent.com/Dhruvacube/Dhruvacube/master/github-metrics.svg" alt="Detailed Summary" />
+
+***
+
 ## 🔗 Social Links 🔗
 
 <table style="border: none">
@@ -110,8 +114,6 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvacube&layout=compact&langs_count=8" alt="Top Langs" />
-
-<img src="https://raw.githubusercontent.com/Dhruvacube/Dhruvacube/master/github-metrics.svg" alt="Detailed Summary" />
 
 <details>
   <summary>⚡ <b>GitHub Statistics</b></summary>
