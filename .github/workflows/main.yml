@@ -60,13 +60,13 @@ jobs:
           plugin_code_load: 100               # Fetch 100 events from activity
           plugin_code_visibility: public
           
-          template: repository
-          user: repository-owner
-          repo: repository-name
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci       # Command to setup target repository
-          plugin_licenses_ratio: yes          # Display used licenses ratio
-          plugin_licenses_legal: yes          # Display permissions, limitations and conditions
+          #template: repository
+          #user: repository-owner
+          #repo: repository-name
+          #plugin_licenses: yes
+          #plugin_licenses_setup: npm ci       # Command to setup target repository
+          #plugin_licenses_ratio: yes          # Display used licenses ratio
+          #plugin_licenses_legal: yes          # Display permissions, limitations and conditions
           
           plugin_reactions: yes
           plugin_reactions_limit: 200                 # Compute reactions over last 200 issue comments
