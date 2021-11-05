@@ -88,11 +88,6 @@ jobs:
           plugin_topics_mode: mastered # Display icons instead of labels
           plugin_topics_limit: 0       # Disable limitations
           
-          plugin_screenshot: yes
-          plugin_screenshot_title: My Website  # Section title
-          plugin_screenshot_url: https://dhruvacuber.pythonanywhere.com/   # Website url
-          plugin_screenshot_background: no
-          
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
           plugin_wakatime_days: 7                                   # Display last week stats
