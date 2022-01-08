@@ -59,7 +59,7 @@
     </th>
     <th>
       <a href="https://discord.gg/g9zQbjE73K" target="_blank">
-        <img src="https://img.shields.io/badge/discord-HATSUNE%20MIKU%238425-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
+        <img src="https://img.shields.io/badge/discord-HATSUNE%20MIKU%239955-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
       </a>
     </th>
   </tr>
