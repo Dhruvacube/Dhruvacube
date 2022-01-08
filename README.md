@@ -2,8 +2,8 @@
 
 ***
 
-<a href="https://discord.com/users/571889108046184449" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/571889108046184449" alt="Discord Presence of HATSUNE MIKU#8425" />
+<a href="https://discord.com/users/887549958931247137" target="_blank">
+    <img src="https://lanyard-profile-readme.vercel.app/api/887549958931247137" alt="Discord Presence of HATSUNE MIKU#8425" />
 </a>
 
 ***
