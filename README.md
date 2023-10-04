@@ -126,11 +126,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Assessing the Feasibility of Creating a WALL-E-Like Robot For Human Assistance](https://dev.to/dhruvacube/assessing-the-feasibility-of-creating-a-wall-e-like-robot-for-human-assistance-431i)
 - [fluxpoint.py](https://dev.to/dhruvacube/fluxpointpy-2c22)
 - [Konohagakure Search](https://dev.to/dhruvacube/konohagakure-search-35b1)
 - [How to do a secure login in django](https://dev.to/dhruvacube/how-to-do-a-secure-login-in-django-5155)
 - [Google Like Search Engine](https://dev.to/dhruvacube/google-like-search-engine-52cm)
-- [Quest DB - My experience at QuestDB during Hacktoberfest](https://dev.to/dhruvacube/quest-db-my-experience-at-questdb-during-hacktoberfest-1bk2)
 <!-- BLOG-POST-LIST:END -->
 
 ***
