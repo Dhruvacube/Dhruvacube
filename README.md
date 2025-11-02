@@ -41,18 +41,6 @@
   </tr>
   <tr align="left">
     <th>
-      <a href="https://github.com/Dhruvacube" target="_blank">
-        <img src="https://img.shields.io/badge/github-Dhruvacube-181717?style=for-the-badge&logo=github" alt="Github" />
-      </a>
-    </th>
-    <th>
-      <a href="https://gist.github.com/Dhruvacube" target="_blank">
-        <img src="https://img.shields.io/badge/github%20gist-Dhruvacube-181717?style=for-the-badge&logo=github" alt="Github Gist" />
-      </a>
-    </th>
-  </tr>
-  <tr align="left">
-    <th>
       <a href="https://www.youtube.com/c/DhruvaShaw" target="_blank">
         <img src="https://img.shields.io/badge/Youtube-Dhruva%20Shaw-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
       </a>
