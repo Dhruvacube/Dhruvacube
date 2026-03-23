@@ -157,7 +157,7 @@ The future of conflict is cognitive, autonomous, and contested across every doma
 
 <div align="center">
 
-`[ CENJOWS · IDS · MoD ] — [ Creative Net ] — [ IEEE SPS ] — [ Patent No. 202531018252 ]`
+`[ CENJOWS ] — [ Creative Net ] — [ IEEE SPS ] — [ Patent No. 202531018252 ]`
 
 *Building the sovereign tech stack India deserves.*
 
