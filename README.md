@@ -1,129 +1,164 @@
-# Konichiwa 👋
+<!-- DHRUVA SHAW — GitHub Profile README -->
 
-***
+<div align="center">
 
-<a href="https://discord.com/users/887549958931247137" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/887549958931247137" alt="Discord Presence of HATSUNE MIKU#8425" />
-</a>
+```
+██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗ █████╗     ███████╗██╗  ██╗ █████╗ ██╗    ██╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║██╔══██╗    ██╔════╝██║  ██║██╔══██╗██║    ██║
+██║  ██║███████║██████╔╝██║   ██║██║   ██║███████║    ███████╗███████║███████║██║ █╗ ██║
+██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝██╔══██║    ╚════██║██╔══██║██╔══██║██║███╗██║
+██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝ ██║  ██║    ███████║██║  ██║██║  ██║╚███╔███╔╝
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ 
+```
 
-***
+### `[ INTELLIGENCE · ROBOTICS · SOVEREIGN TECHNOLOGY ]`
 
-<img src="https://raw.githubusercontent.com/Dhruvacube/Dhruvacube/master/github-metrics.svg" alt="Detailed Summary" />
+[![Patent](https://img.shields.io/badge/Patent-202531018252-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://ipindia.gov.in)
+[![IEEE SPS Scholar](https://img.shields.io/badge/IEEE%20SPS-Scholar-0a0a0a?style=for-the-badge&logo=ieee&logoColor=00aaff)](https://ieee.org)
+[![CENJOWS](https://img.shields.io/badge/CENJOWS-Technical%20Research%20Assistant-0a0a0a?style=for-the-badge&logoColor=ff4444)](https://cenjows.in)
+[![Creative Net](https://img.shields.io/badge/Creative%20Net-Founder-0a0a0a?style=for-the-badge&logoColor=ffcc00)](https://github.com/dhruvashaw)
 
-***
+</div>
 
-## 🔗 Social Links 🔗
+---
 
-<table style="border: none">
-  <tr align="left">
-    <th>
-      <a href="https://dev.to/dhruvacube" target="_blank">
-        <img src="https://img.shields.io/badge/Dev.to-dhruvacube-0A0A0A?style=for-the-badge&logo=dev.to" alt="dev.to" />
-      </a>
-    </th>
-    <th>
-      <a href="https://scratch.mit.edu/users/Dhruvacuber/" target="_blank">
-        <img src="https://img.shields.io/badge/Scratch-Dhruvacuber-4D97FF?style=for-the-badge&logo=scratch" alt="Scratch" />
-      </a>
-    </th>
-  </tr>
-  <tr align="left">
-    <th>
-      <a href="https://imgur.com/user/DhruvaShaw" target="_blank">
-        <img src="https://img.shields.io/badge/Imgur-DhruvaShaw-1BB76E?style=for-the-badge&logo=imgur" alt="Imgur" />
-      </a>
-    </th>
-    <th>
-      <a href="https://www.instagram.com/dhruva_shaw_/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-dhruva__shaw__-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
-      </a>
-    </th>
-  </tr>
-  <tr align="left">
-    <th>
-      <a href="https://www.youtube.com/c/DhruvaShaw" target="_blank">
-        <img src="https://img.shields.io/badge/Youtube-Dhruva%20Shaw-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
-      </a>
-    </th>
-    <th>
-      <a href="https://discord.gg/g9zQbjE73K" target="_blank">
-        <img src="https://img.shields.io/badge/discord-HATSUNE%20MIKU%239955-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
-      </a>
-    </th>
-  </tr>
-</table>
+## ◈ IDENTITY
 
-<h2>🚀 Some Tools I Use</h2>
+```yaml
+name        : Dhruva Shaw
+role        : Technical Research Assistant @ CENJOWS
+             Founder @ Creative Net (Defence Deep-Tech R&D)
+location    : New Delhi, India
+education   : B.Tech Robotics & Automation — Lovely Professional University (Dean's List)
+             MS Financial Engineering — WorldQuant University (2025–2027)
+patent      : No. 202531018252 — "Adverse" (AI-powered OSINT Platform)
+```
 
+---
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" alt="filezilla" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows8" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-plain.svg" alt="inkscape" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="jquery" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-plain.svg" alt="jira" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-plain.svg" alt="jupyter" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="materialui" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-plain.svg" alt="arduino" width="40" height="40" />
-</p>
+## ◈ WHAT I BUILD
 
-<details>
-  <summary>⚡ <b>GitHub Statistics</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvacube&layout=compact&count_private=true&show_icons=true" alt="Dhruva Shaw GitHub stats" />
-</details>
+> *Sovereign technology for contested environments.*
 
-<details>
-  <summary>⏱️ <b>Wakatime Statistics</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhruva" alt="Dhruva Shaw Wakatime Statistics" />
-</details>
+**Creative Net** is a deep-tech R&D startup developing capabilities across:
 
-***
+| Domain | Focus Area |
+|--------|-----------|
+| 🛰️ Multi-Domain Intelligence | OSINT platforms, ISR systems, signals analysis |
+| 🤖 Robotics & Unmanned Systems | Autonomous agents, swarm coordination, human-machine teaming |
+| 🔐 Cybersecurity | Threat intelligence, cyber forensics, network defence |
+| 🧠 Cognitive Warfare | Information operations, influence analysis, disinformation detection |
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Assessing the Feasibility of Creating a WALL-E-Like Robot For Human Assistance](https://dev.to/dhruvacube/assessing-the-feasibility-of-creating-a-wall-e-like-robot-for-human-assistance-431i)
-- [fluxpoint.py](https://dev.to/dhruvacube/fluxpointpy-2c22)
-- [Konohagakure Search](https://dev.to/dhruvacube/konohagakure-search-35b1)
-- [How to do a secure login in django](https://dev.to/dhruvacube/how-to-do-a-secure-login-in-django-5155)
-- [Google Like Search Engine](https://dev.to/dhruvacube/google-like-search-engine-52cm)
-<!-- BLOG-POST-LIST:END -->
+---
 
-***
+## ◈ CURRENT WORK
 
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  CENJOWS RESEARCH — India's Defence Industrial Complex           ║
+║  ▸ Engaging DRDO, DPSUs & private defence manufacturers          ║
+║  ▸ Policy study on AI/ML, 5G/6G, quantum, EW/SIGINT, space/ISR  ║
+║  ▸ MoU frameworks for defence-academia technology transfer       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  CREATIVE NET — International Expansion Phase                    ║
+║  ▸ Building cross-border payment infrastructure                  ║
+║  ▸ Refining defence-sector positioning & go-to-market            ║
+╠══════════════════════════════════════════════════════════════════╣
+║  IEEE — Peer Review & Research                                   ║
+║  ▸ Reviewer: IEEE T-ITS (cooperative vehicle localization)       ║
+║  ▸ Submitted: Robotic swarm master-slave config — IEEE JSTSP     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-![Naruto and Sasuke](https://i.imgur.com/KPn25ut.jpeg)
+---
 
+## ◈ TECHNICAL STACK
 
+<div align="center">
+
+**Intelligence & Data**
+
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB)
+![OSINT](https://img.shields.io/badge/OSINT_Engineering-0a0a0a?style=flat-square&logoColor=white)
+![SIGINT](https://img.shields.io/badge/SIGINT_Analysis-0a0a0a?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP_/_LLMs-0a0a0a?style=flat-square&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0a0a0a?style=flat-square&logo=opencv&logoColor=white)
+
+**Robotics & Systems**
+
+![ROS](https://img.shields.io/badge/ROS-0a0a0a?style=flat-square&logo=ros&logoColor=22314E)
+![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0a?style=flat-square&logo=mathworks&logoColor=orange)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0a0a0a?style=flat-square&logo=arduino&logoColor=white)
+
+**Finance & Modelling**
+
+![Financial Engineering](https://img.shields.io/badge/Financial_Engineering-0a0a0a?style=flat-square)
+![Quant](https://img.shields.io/badge/Quantitative_Methods-0a0a0a?style=flat-square)
+![ML](https://img.shields.io/badge/ML_Modelling-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+
+</div>
+
+---
+
+## ◈ NOTABLE PROJECTS
+
+**`Adverse`** — *AI-powered OSINT Platform* `[Patented — No. 202531018252]`
+> Multi-source open-source intelligence aggregation engine with AI-driven analysis for national security applications.
+
+**`PhishNet`** — *AI/ML Phishing Detection*
+> Deep learning pipeline for real-time detection and classification of phishing threats across digital surfaces.
+
+**`Mind-Controlled Bionic Arm`**
+> BCI-driven prosthetic arm using EEG signal processing for intuitive motor control — merging neuroscience with robotics.
+
+**`Osteoporosis ML Model`**
+> ML classifier for early osteoporosis detection — applying precision medicine approaches to musculoskeletal diagnostics.
+
+**`iDEX Challenge 15`**
+> Defence innovation submission under India's Innovations for Defence Excellence programme, engaging with the IAF's HPSC.
+
+---
+
+## ◈ DOMAIN EXPERTISE
+
+```
+Intelligence           ████████████████████  OSINT · HUMINT · SIGINT · Cyber Intel
+Autonomous Systems     ███████████████░░░░░  Swarms · UAVs · Ground Robots · BCI
+Cybersecurity          ████████████████░░░░  Threat Intel · Forensics · Network Defence
+Defence Policy         ██████████████░░░░░░  DIC · Procurement · Innovation Ecosystems
+Cognitive Warfare      ████████████░░░░░░░░  PsyOps · Influence Ops · Disinfo Analysis
+Financial Engineering  ██████████░░░░░░░░░░  Quantitative Methods · Risk Modelling
+```
+
+---
+
+## ◈ PHILOSOPHY
+
+> *"Sovereign capability is not a procurement decision — it is an engineering imperative."*
+
+I work at the intersection of **intelligence**, **autonomy**, and **national security** — building tools and systems that give democratic states a decisive edge in an era of grey-zone competition and technological warfare.
+
+The future of conflict is cognitive, autonomous, and contested across every domain simultaneously. Creative Net exists to meet that future on India's terms.
+
+---
+
+## ◈ CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruva%20Shaw-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/dhruvashaw)
+[![IEEE](https://img.shields.io/badge/IEEE-Member-0a0a0a?style=for-the-badge&logo=ieee&logoColor=00629B)](https://ieee.org)
+[![Email](https://img.shields.io/badge/Contact-dhruva@creativenet.in-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dhruva@creativenet.in)
+
+</div>
+
+---
+
+<div align="center">
+
+`[ CENJOWS · IDS · MoD ] — [ Creative Net ] — [ IEEE SPS ] — [ Patent No. 202531018252 ]`
+
+*Building the sovereign tech stack India deserves.*
+
+</div>
