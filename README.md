@@ -147,9 +147,9 @@ The future of conflict is cognitive, autonomous, and contested across every doma
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruva%20Shaw-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/dhruvashaw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruva%20Shaw-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/dhruva-shaw)
 [![IEEE](https://img.shields.io/badge/IEEE-Member-0a0a0a?style=for-the-badge&logo=ieee&logoColor=00629B)](https://ieee.org)
-[![Email](https://img.shields.io/badge/Contact-dhruva@creativenet.in-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dhruva@creativenet.in)
+[![Email](https://img.shields.io/badge/Contact-dhruva@creativenet.in-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:me@dhruvashaw.in)
 
 </div>
 
