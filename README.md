@@ -15,7 +15,6 @@
 
 [![Patent](https://img.shields.io/badge/Patent-202531018252-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://ipindia.gov.in)
 [![IEEE SPS Scholar](https://img.shields.io/badge/IEEE%20SPS-Scholar-0a0a0a?style=for-the-badge&logo=ieee&logoColor=00aaff)](https://ieee.org)
-[![CENJOWS](https://img.shields.io/badge/CENJOWS-Technical%20Research%20Assistant-0a0a0a?style=for-the-badge&logoColor=ff4444)](https://cenjows.in)
 [![Creative Net](https://img.shields.io/badge/Creative%20Net-Founder-0a0a0a?style=for-the-badge&logoColor=ffcc00)](https://github.com/dhruvashaw)
 
 </div>
@@ -26,12 +25,7 @@
 
 ```yaml
 name        : Dhruva Shaw
-role        : Technical Research Assistant @ CENJOWS
-             Founder @ Creative Net (Defence Deep-Tech R&D)
-location    : New Delhi, India
-education   : B.Tech Robotics & Automation — Lovely Professional University (Dean's List)
-             MS Financial Engineering — WorldQuant University (2025–2027)
-patent      : No. 202531018252 — "Adverse" (AI-powered OSINT Platform)
+role        : Founder @ Creative Net
 ```
 
 ---
@@ -55,11 +49,6 @@ patent      : No. 202531018252 — "Adverse" (AI-powered OSINT Platform)
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  CENJOWS RESEARCH — India's Defence Industrial Complex           ║
-║  ▸ Engaging DRDO, DPSUs & private defence manufacturers          ║
-║  ▸ Policy study on AI/ML, 5G/6G, quantum, EW/SIGINT, space/ISR  ║
-║  ▸ MoU frameworks for defence-academia technology transfer       ║
-╠══════════════════════════════════════════════════════════════════╣
 ║  CREATIVE NET — International Expansion Phase                    ║
 ║  ▸ Building cross-border payment infrastructure                  ║
 ║  ▸ Refining defence-sector positioning & go-to-market            ║
@@ -115,9 +104,6 @@ patent      : No. 202531018252 — "Adverse" (AI-powered OSINT Platform)
 **`Osteoporosis ML Model`**
 > ML classifier for early osteoporosis detection — applying precision medicine approaches to musculoskeletal diagnostics.
 
-**`iDEX Challenge 15`**
-> Defence innovation submission under India's Innovations for Defence Excellence programme, engaging with the IAF's HPSC.
-
 ---
 
 ## ◈ DOMAIN EXPERTISE
@@ -133,16 +119,6 @@ Financial Engineering  ██████████░░░░░░░░░
 
 ---
 
-## ◈ PHILOSOPHY
-
-> *"Sovereign capability is not a procurement decision — it is an engineering imperative."*
-
-I work at the intersection of **intelligence**, **autonomy**, and **national security** — building tools and systems that give democratic states a decisive edge in an era of grey-zone competition and technological warfare.
-
-The future of conflict is cognitive, autonomous, and contested across every domain simultaneously. Creative Net exists to meet that future on India's terms.
-
----
-
 ## ◈ CONNECT
 
 <div align="center">
@@ -154,11 +130,4 @@ The future of conflict is cognitive, autonomous, and contested across every doma
 </div>
 
 ---
-
-<div align="center">
-
-`[ CENJOWS ] — [ Creative Net ] — [ IEEE SPS ] — [ Patent No. 202531018252 ]`
-
-*Building the sovereign tech stack India deserves.*
-
 </div>
